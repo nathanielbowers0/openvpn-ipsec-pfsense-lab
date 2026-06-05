@@ -1,4 +1,4 @@
-# pfSense VPN Configuration Lab
+VPN Configuration Lab
 
 ## Overview
 
